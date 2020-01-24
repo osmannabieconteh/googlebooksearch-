@@ -60,13 +60,11 @@ const bookSeed = [
 		date: new Date(Date.now())
 	},
 	{
-		title: 'No Longer At Ease',
+		title: 'N Longer At Ease',
 		author: ' Chinua Achebe',
 		synopsis: '',
 		date: new Date(Date.now())
-	},
-	{
-		
+	}
 ];
 
 db.Book
